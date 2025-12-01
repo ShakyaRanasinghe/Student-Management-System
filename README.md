@@ -1,8 +1,4 @@
-Absolutely — here is the **complete, ready-to-paste `README.md` file**, formatted perfectly for GitHub with headings, markdown styling, and optional screenshot sections.
-
----
-
-# 🎓 Student Management System
+#  Student Management System
 
 ### *C# WinForms + SQL Server Desktop Application*
 
